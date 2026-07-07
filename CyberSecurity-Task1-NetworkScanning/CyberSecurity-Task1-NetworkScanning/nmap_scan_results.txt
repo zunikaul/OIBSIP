@@ -1,0 +1,30 @@
+135/tcp  open  msrpc    Microsoft Windows RPC
+445/tcp  open  microsoft-ds
+3306/tcp open  mysql    MySQL 8.0.39
+
+
+SCAN 3: Operating System Detection
+
+Command:
+nmap -O localhost
+
+Purpose:
+To identify the operating system of the target machine.
+
+Results:
+
+Device Type:
+General Purpose
+
+Operating System:
+Microsoft Windows 11
+
+OS Details:
+Windows 11 24H2 - 25H2
+
+
+Conclusion:
+
+The scan identified multiple open services running on the local machine.
+Further security analysis was performed to understand possible risks
+associated with these services.
