@@ -1,0 +1,32 @@
+=========================================
+      NETGUARD SECURITY REPORT
+=========================================
+
+Total Packets Captured : 33274
+
+Protocol Distribution
+------------------------------
+UDP: 33191 (99.75%)
+Other: 46 (0.14%)
+ICMP: 37 (0.11%)
+
+Top 5 Source IP Addresses
+------------------------------
+162.159.198.2: 26498
+192.168.1.4: 6719
+192.168.1.1: 19
+
+Top 5 Destination IP Addresses
+------------------------------
+192.168.1.4: 26507
+162.159.198.2: 6687
+224.0.0.252: 17
+192.168.1.255: 9
+192.168.1.1: 9
+
+Security Alerts
+------------------------------
+High UDP traffic detected.
+No ICMP flooding detected.
+
+Overall Risk Level : LOW
