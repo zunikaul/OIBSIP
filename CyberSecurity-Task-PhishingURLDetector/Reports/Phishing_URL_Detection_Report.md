@@ -9,7 +9,7 @@
 
 **Internship:** Oasis Infobyte Cyber Security Internship (OIBSIP)
 
-**Date:** 1 July 2026
+
 
 
 # 1. Introduction
